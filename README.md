@@ -1,6 +1,8 @@
 # SceneTextRecognition
 <img src="https://www.sla.gov.sg/qql/slot/u143/Newsroom/Press%20Releases/2019/SGW2019/GeoWorks.png" style="width:90px;height:41px;margin: 0 0 30px 0;">
+
 Done for **GeoAI Internship** at GeoWorks, Singapore Land Authority. 
+
 ## Three different ways to Detect, Recognize or Spot Scene Text.
 <br>
 Three Models used: 
