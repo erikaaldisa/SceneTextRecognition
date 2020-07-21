@@ -4,7 +4,6 @@
 Done for **GeoAI Internship** at GeoWorks, Singapore Land Authority. 
 
 ## Three different ways to Detect, Recognize or Spot Scene Text.
-<br>
 Three Models used: 
 
 1. [OpenCV OCR]
