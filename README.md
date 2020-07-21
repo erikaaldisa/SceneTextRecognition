@@ -5,9 +5,9 @@ Done for <b>GeoAI Internship</b> at GeoWorks, Singapore Land Authority.
 <h2> Three different ways to Detect, Recognize or Spot Scene Text. </h2>
 Three Models used: 
 <ol>
-  <li><a href: "https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/" target="_blank">OpenCV OCR</a></li>
-  <li>EAST (Tensorflow Implementation)</li>
-  <li>FOTS - Fast Oriented Text Spotting with a Unified Network</li>
+  <li>[OpenCV OCR](https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/)</li>
+  <li>[EAST (Tensorflow Implementation)](https://github.com/argman/EAST)</li>
+  <li>[FOTS - Fast Oriented Text Spotting with a Unified Network](https://github.com/Pay20Y/FOTS_TF/tree/dev)</li>
 </ol>
 
 <h3> Usage of OpenCV OCR (Test)</h3>
