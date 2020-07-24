@@ -1,0 +1,10 @@
+To run the flask app:
+
+put this command in your command line/terminal,
+
+python3 app_geo.py
+
+-------------------------------------------------------------------------------
+app_geo.py contains the flask app and imports the FOTS feature from the app_fots.py 
+
+app_geo.py also copies and modifies code from geolocation.py to get coordinates of the uploaded picture by extracting its EXIF data
