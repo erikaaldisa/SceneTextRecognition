@@ -13,7 +13,7 @@ UPLOAD_FOLDER = "./app_storage"
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 ALLOWED_EXTENSIONS = {'txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'}
 
-#access token expires every 3 days, so ensure you register for a new one with your email
+# OneMap API access token expires every 3 days, so ensure you register for a new one with your email
 access_token= "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjUxOTMsInVzZXJfaWQiOjUxOTMsImVtYWlsIjoiZXJpa2FhbGRpc2EuMjAxOEBzaXMuc211LmVkdS5zZyIsImZvcmV2ZXIiOmZhbHNlLCJpc3MiOiJodHRwOlwvXC9vbTIuZGZlLm9uZW1hcC5zZ1wvYXBpXC92MlwvdXNlclwvc2Vzc2lvbiIsImlhdCI6MTU5NTQzOTYxNiwiZXhwIjoxNTk1ODcxNjE2LCJuYmYiOjE1OTU0Mzk2MTYsImp0aSI6ImM4YmI0NGI3YWEwNmYwZGFlMDEyOThmOTJlMjEzODc0In0.f2Kb-OZAgXbTqrvQSS0JyGO4w17F-K1NZa0heXSpd7Q"
 base_url = 'https://developers.onemap.sg/privateapi/commonsvc/revgeocode'
 staticmap_url = 'https://developers.onemap.sg/commonapi/staticmap/getStaticImage'
