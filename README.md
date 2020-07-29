@@ -22,6 +22,8 @@ Three Models used:
 [EAST (Tensorflow Implementation)]: https://github.com/argman/EAST
 [FOTS - Fast Oriented Text Spotting with a Unified Network]: https://github.com/Pay20Y/FOTS_TF/tree/dev
 
+:computer::one::computer:
+
 ### Usage of OpenCV OCR (Test)
 1. Clone GitHub Repository / Download & unzip ZIP file named ‘OpenCV OCR’
 2. Activate Virtual Environment and go to the directory where the OpenCV OCR folder is
@@ -39,6 +41,8 @@ Three Models used:
 [Xming]: https://microcollaborative.atlassian.net/wiki/spaces/DSC/pages/167084120/X11+with+Windows+Subsystem+for+Linux
 [link]: https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
 
+:computer::two::computer:
+
 ### Usage of EAST (Test)
 1. Clone GitHub Repository / Download & unzip ZIP file named ‘EAST’
 2. Activate Virtual Environment and go to the directory where the EAST is
@@ -55,6 +59,8 @@ Three Models used:
 
 [Models trained on ICDAR 2013 + ICDAR 2015 training data]: https://drive.google.com/file/d/0B3APw5BZJ67ETHNPaU9xUkVoV0U/view
 [Resnet V1 50 provided by tensorflow slim]: http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz
+
+:computer::three::computer:
 
 ### Usage of FOTS (Test)
 1. Clone GitHub Repository / Download & unzip ZIP file named ‘FOTS’
@@ -96,5 +102,5 @@ In the process of choosing the scene text recognition/spotting model (FOTS), I h
 
 ### Output
 
-![FlaskApp](https://github.com/erikaaldisa/[SceneTextRecognition]/blob/master/FOTS/FlaskAppScreenshot.png?raw=true)
+![FlaskApp](https://github.com/erikaaldisa/SceneTextRecognition/blob/master/FOTS/FlaskAppScreenshot.png?raw=true)
 
