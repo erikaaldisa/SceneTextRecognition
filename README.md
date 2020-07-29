@@ -1,7 +1,9 @@
 # SceneTextRecognition
 <img src="https://www.sla.gov.sg/qql/slot/u143/Newsroom/Press%20Releases/2019/SGW2019/GeoWorks.png" style="width:90px;height:41px;margin: 0 0 30px 0;">
 
-Done for **GeoAI Internship** at GeoWorks, Singapore Land Authority. 
+Done for **GeoAI Internship** at [GeoWorks], Singapore Land Authority. 
+
+[GeoWorks]: https://geoworks.sg/
 
 ## Three different ways to Detect, Recognize or Spot Scene Text.
 Three Models used: 
@@ -83,8 +85,10 @@ Features of Flask Application:
 
 * FOTS: Spot Scene Text in the picture
 * Extract GeoTAGS (GPS Info/Coordinates) of the picture
-* OneMAP API: Reverse Geocoding to get Address of the picture
-* OneMAP API: Static Map of the Address of the picture
+* [OneMap API]: Reverse Geocoding to get Address of the picture
+* [OneMap API]: Static Map of the Address of the picture
+
+[OneMap API]: https://docs.onemap.sg/
 
 In the process of choosing the scene text recognition/spotting model (FOTS), I have chosen some criteria such as:
 
@@ -104,3 +108,5 @@ In the process of choosing the scene text recognition/spotting model (FOTS), I h
 
 ![FlaskApp](https://github.com/erikaaldisa/SceneTextRecognition/blob/master/FOTS/FlaskAppScreenshot.png?raw=true)
 
+
+> Thank you to the team at GeoWorks!
