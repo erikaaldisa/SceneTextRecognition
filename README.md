@@ -96,6 +96,5 @@ In the process of choosing the scene text recognition/spotting model (FOTS), I h
 
 ### Output
 
-![FlaskApp](https://github.com/erikaaldisa/[SceneTextRecognition]/blob/[master]/FOTS/FlaskAppScreenshot.png?raw=true)
+![FlaskApp](https://github.com/erikaaldisa/[SceneTextRecognition]/blob/master/FOTS/FlaskAppScreenshot.png?raw=true)
 
-![Screenshot](FlaskAppScreenshot.png)
