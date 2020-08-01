@@ -109,4 +109,4 @@ In the process of choosing the scene text recognition/spotting model (FOTS), I h
 ![FlaskApp](https://github.com/erikaaldisa/SceneTextRecognition/blob/master/FOTS/FlaskAppScreenshot.png?raw=true)
 
 
-> Thank you to the team at GeoWorks!
+> Thank you to the team at GeoWorks, Singapore Land Authority!
