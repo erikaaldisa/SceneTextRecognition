@@ -19,7 +19,7 @@ kiwisolver==1.2.0
 Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 opencv-python==4.2.0.34
 Pillow==7.1.2
 plumbum==1.6.9
